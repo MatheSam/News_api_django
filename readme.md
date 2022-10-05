@@ -14,4 +14,10 @@ Para que seja possível iniciar a api, siga os comandos abaixo:
    $ pip install django
    ```
 
+4. Por fim inicie a aplicação
+
+   ```
+   $ python manage.py runserver
+   ```
+
 Espero que aproveite!
