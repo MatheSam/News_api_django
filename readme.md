@@ -1,6 +1,6 @@
 Olá, seja bem vindo a aplicação de consumo api NewsApi.
 
-O consumo foi realizado no articles dentro da pasta views.py.
+O consumo foi realizado dentro da pasta articles no arquivo views.py.
 
 Lá também é possível realizar a busca por determinado assunto.
 
